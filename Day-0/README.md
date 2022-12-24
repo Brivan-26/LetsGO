@@ -1,4 +1,4 @@
-# Notes
+# Day 0 Notes: First GO program, and first test
 <hr />
 
 ## Syntax
