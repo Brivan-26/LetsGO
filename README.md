@@ -10,3 +10,4 @@ This is my journey on learning GO in 30 days throughout tutorials and hand-on pr
   
 * Day 0: [Hello, intro into TDD](./Day-0/)
 * Day 1: [Integers, Iterations](./Day-1/)
+* Day 2: [Arrays, Slices](./Day-2/)
