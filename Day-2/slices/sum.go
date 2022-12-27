@@ -25,3 +25,4 @@ func SumAllTails(numbersToSumTail ...[]int) (result []int) {
 	}
 	return
 }
+
