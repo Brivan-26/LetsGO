@@ -13,3 +13,4 @@ This is my journey on learning GO in 30 days throughout tutorials and hand-on pr
 * Day 2: [Arrays, Slices](./Day-2/)
 * Day 3: [Structs, Methods, Interfaces](./Day-3/)
 * Day 4: [Pointers, Errors](./Day-4/)
+* Day 45: [Maps](./Day-455/)
