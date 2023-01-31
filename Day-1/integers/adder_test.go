@@ -7,7 +7,7 @@ import (
 
 func TestAdder(t *testing.T) {
 	got := Add(1, 3)
-	want :=6
+	want :=4
 	
 	if got != want {
 		t.Errorf("Expected: %d, got: %d", want, got)
